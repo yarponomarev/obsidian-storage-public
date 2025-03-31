@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "accentColor": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "showRibbon": true
+}

@@ -1,0 +1,6 @@
+{
+  "template": "templates/Шаблон для ежедневных заметок",
+  "folder": "daily_notes",
+  "autorun": false,
+  "format": "DD-MM-YYYY"
+}

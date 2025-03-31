@@ -1,0 +1,62 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "Cache/anna.jpg",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "",
+  "customFont": "textFont",
+  "fontSize": "3em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 15,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": false,
+  "selectionHighlight": "default",
+  "showShortcuts": false,
+  "markdownOnly": true,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "!base/README.md",
+      "timestamp": 1743421825752
+    },
+    {
+      "filepath": "tracker/Заметки без ссылок.md",
+      "timestamp": 1743419948462
+    },
+    {
+      "filepath": "tracker/_Трекер.md",
+      "timestamp": 1743419946739
+    },
+    {
+      "filepath": "tracker/Измененные заметки за 7 дней.md",
+      "timestamp": 1743419940839
+    },
+    {
+      "filepath": "tracker/Не созданные заметки.md",
+      "timestamp": 1743419940149
+    }
+  ],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "!base/Блокнот.md",
+      "iconId": "book"
+    },
+    {
+      "filepath": "!base/README.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true
+}

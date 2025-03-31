@@ -1,0 +1,18 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "cache",
+  "focusNewTab": false,
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "Ссылки",
+  "spellcheck": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "foldHeading": true
+}
