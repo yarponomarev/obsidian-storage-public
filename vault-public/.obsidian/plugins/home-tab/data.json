@@ -25,23 +25,23 @@
   "recentFilesStore": [
     {
       "filepath": "tracker/Заметки без ссылок.md",
-      "timestamp": 1743671844235
+      "timestamp": 1744025289771
     },
     {
-      "filepath": "!base/Блокнот.md",
-      "timestamp": 1743425005868
+      "filepath": "templates/Шаблон для ежедневных заметок.md",
+      "timestamp": 1744025286433
     },
     {
-      "filepath": "tracker/_Трекер.md",
-      "timestamp": 1743419946739
+      "filepath": "templates/Шаблон для заметки.md",
+      "timestamp": 1744025285719
     },
     {
-      "filepath": "tracker/Измененные заметки за 7 дней.md",
-      "timestamp": 1743419940839
+      "filepath": "templates/Шаблон для книги.md",
+      "timestamp": 1744025285264
     },
     {
-      "filepath": "tracker/Не созданные заметки.md",
-      "timestamp": 1743419940149
+      "filepath": "templates/Шаблон для пройденного курса.md",
+      "timestamp": 1744025284539
     }
   ],
   "bookmarkedFileStore": [
