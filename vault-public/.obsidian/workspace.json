@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3491233896090027",
+        "id": "68ffaca75890a021",
         "type": "tabs",
         "children": [
           {
-            "id": "08bfeb64e413e58f",
+            "id": "68a1c55fff1c8432",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -195,10 +195,11 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "08bfeb64e413e58f",
+  "active": "edc3217973a8a3ee",
   "lastOpenFiles": [
-    "daily_notes/07-04-2025.md",
     "tracker/Заметки без ссылок.md",
+    "!base/Блокнот.md",
+    "daily_notes/07-04-2025.md",
     "templates/Шаблон для ежедневных заметок.md",
     "templates/Шаблон для заметки.md",
     "templates/Шаблон для книги.md",
@@ -209,7 +210,6 @@
     "templates/Шаблон для замера тела.md",
     "templates/_templates.md",
     "tracker/_tracker.md",
-    "!base/Блокнот.md",
     "tracker/Измененные заметки за 7 дней.md",
     "tracker/Не созданные заметки.md",
     "tracker/Новые заметки за 7 дней.md",
