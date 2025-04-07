@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b269d8992e494b0",
+        "id": "3491233896090027",
         "type": "tabs",
         "children": [
           {
-            "id": "510e9cf05db1a83e",
+            "id": "08bfeb64e413e58f",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -195,8 +195,9 @@
       "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "510e9cf05db1a83e",
+  "active": "08bfeb64e413e58f",
   "lastOpenFiles": [
+    "daily_notes/07-04-2025.md",
     "tracker/Заметки без ссылок.md",
     "templates/Шаблон для ежедневных заметок.md",
     "templates/Шаблон для заметки.md",
@@ -207,7 +208,6 @@
     "templates/Шаблон изученной технологии.md",
     "templates/Шаблон для замера тела.md",
     "templates/_templates.md",
-    "daily_notes/07-04-2025.md",
     "tracker/_tracker.md",
     "!base/Блокнот.md",
     "tracker/Измененные заметки за 7 дней.md",

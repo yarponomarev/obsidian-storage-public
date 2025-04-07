@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "daily_notes/07-04-2025.md",
+      "timestamp": 1744025927269
+    },
+    {
       "filepath": "tracker/Заметки без ссылок.md",
       "timestamp": 1744025289771
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "templates/Шаблон для книги.md",
       "timestamp": 1744025285264
-    },
-    {
-      "filepath": "templates/Шаблон для пройденного курса.md",
-      "timestamp": 1744025284539
     }
   ],
   "bookmarkedFileStore": [
