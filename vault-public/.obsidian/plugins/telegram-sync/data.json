@@ -23,9 +23,9 @@
           "value": ""
         }
       ],
-      "templateFilePath": "templates/Шаблон для Telegram.md",
+      "templateFilePath": "Шаблоны/Шаблон для Telegram.md",
       "notePathTemplate": "/{{content:30}}.md",
-      "filePathTemplate": "cache/telegram/{{file:name}}.{{file:extension}}",
+      "filePathTemplate": "Кэш/telegram/{{file:name}}.{{file:extension}}",
       "reversedOrder": false,
       "heading": ""
     }

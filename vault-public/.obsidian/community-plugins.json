@@ -2,11 +2,12 @@
   "dataview",
   "oz-clear-unused-images",
   "obsidian-auto-link-title",
-  "telegram-sync",
   "home-tab",
   "obsidian-style-settings",
   "tag-wrangler",
   "obsidian-day-and-night",
-  "obsidian-image-toolkit",
-  "calendar"
+  "calendar",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "text-extractor"
 ]
