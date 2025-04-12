@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d99acb8e5d9d4d17",
+        "id": "f14807f91827e19b",
         "type": "tabs",
         "children": [
           {
-            "id": "1d2529e15d61c450",
+            "id": "4b7926152f762cec",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -128,8 +128,7 @@
               "title": "Обратные ссылки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7be4d67ef52c39d6",
@@ -158,18 +157,27 @@
       "switcher:Меню быстрого перехода": false,
       "workspaces:Пространства": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "obsidian-day-and-night:Toggle Theme": false,
       "command-palette:Открыть палитру команд": false,
       "random-note:Открыть случайную заметку": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-day-and-night:Toggle Theme": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d2529e15d61c450",
+  "active": "4b7926152f762cec",
   "lastOpenFiles": [
+    "Шаблоны/Шаблон изученной технологии.md",
+    "Шаблоны/Шаблон для Telegram.md",
+    "Шаблоны/Шаблон для целей.md",
+    "Шаблоны/Шаблон для пройденного курса.md",
+    "Шаблоны/Шаблон для книги.md",
+    "Шаблоны/Шаблон для заметки.md",
+    "Шаблоны/Шаблон для ежедневных заметок.md",
     "!base/_Личное.md",
+    "Шаблоны/_Шаблоны.md",
+    "README.md",
     "!base/Блокнот.md",
     "для_себя.md",
     "Трекер/_Трекер.md",
@@ -178,14 +186,6 @@
     "Цели/_Цели.md",
     "Цели/2025",
     "Цели",
-    "Шаблоны/_Шаблоны.md",
-    "Шаблоны/Шаблон для Telegram.md",
-    "Шаблоны/Шаблон для ежедневных заметок.md",
-    "Шаблоны/Шаблон для пройденного курса.md",
-    "Шаблоны/Шаблон изученной технологии.md",
-    "Шаблоны/Шаблон для целей.md",
-    "Шаблоны/Шаблон для заметки.md",
-    "Шаблоны/Шаблон для книги.md",
     "Трекер/Заметки без ссылок.md",
     "Ежедневные заметки/07-04-2025.md",
     "templates/Шаблон для замера тела.md",
@@ -196,7 +196,6 @@
     "!base/README.md",
     "КАК МЫ ЛАЖАНУЛИ С РАЗМИНКОЙ__В.md",
     "conflict-files-obsidian-git.md",
-    "Робот Сеточник.md",
     "Мой путь.canvas",
     "programming/go",
     "programming",

@@ -24,20 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "!base/_Личное.md",
-      "timestamp": 1744380498433
+      "filepath": "Шаблоны/Шаблон изученной технологии.md",
+      "timestamp": 1744481472366
     },
     {
-      "filepath": "!base/Блокнот.md",
-      "timestamp": 1744380490039
+      "filepath": "Шаблоны/Шаблон для Telegram.md",
+      "timestamp": 1744481471591
     },
     {
-      "filepath": "Трекер/_Трекер.md",
-      "timestamp": 1744380205202
+      "filepath": "Шаблоны/Шаблон для целей.md",
+      "timestamp": 1744481471187
     },
     {
-      "filepath": "Цели/2025/Апрель.md",
-      "timestamp": 1744380170036
+      "filepath": "Шаблоны/Шаблон для пройденного курса.md",
+      "timestamp": 1744481470286
+    },
+    {
+      "filepath": "Шаблоны/Шаблон для книги.md",
+      "timestamp": 1744481468429
     }
   ],
   "bookmarkedFileStore": [
