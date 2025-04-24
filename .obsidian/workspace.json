@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af32a10a85d4fb3e",
+        "id": "c094dcc252d93345",
         "type": "tabs",
         "children": [
           {
-            "id": "0c05ef896e5a6602",
+            "id": "74bd41958b66f05b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -180,8 +180,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c05ef896e5a6602",
+  "active": "74bd41958b66f05b",
   "lastOpenFiles": [
+    "3. Resources/Программирование/Верстка сайтов.md",
+    "2. Areas/Ежедневные заметки/07-04-2025.md",
+    "3. Resources/Пять книг для саморазвития.md",
+    "0. Files/4. PDF/Уход за кожей.pdf",
+    "1. Projects/Сайт/Текст.md",
+    "3. Resources/Книги для трейдера.md",
+    "0. Files/0. Files/photo_559138503_40.jpg",
+    "1. Projects/Сайт/Дизайн.md",
+    "1. Projects/Сайт",
+    "1. Projects/Без названия.md",
+    "README.md",
+    "3. Resources/Программирование",
+    "4. Archive/Цели 2024.md",
     "0. Files/5. Inbox/Блокнот.md",
     "2. Areas/Цели/_Цели.md",
     "2. Areas/Цели/2025/_2025.md",
@@ -193,7 +206,6 @@
     "3. Resources",
     "2. Areas",
     "1. Projects",
-    "0. Files",
     "0. Files/2. Templates/Шаблон изученной технологии.md",
     "0. Files/2. Templates/Шаблон для Telegram.md",
     "0. Files/2. Templates/Шаблон для целей.md",
@@ -203,20 +215,9 @@
     "0. Files/2. Templates/Шаблон для ежедневных заметок.md",
     "!base/_Личное.md",
     "0. Files/2. Templates/_Шаблоны.md",
-    "README.md",
     "для_себя.md",
     "0. Files/1. Tracker/_Трекер.md",
-    "2. Areas/Цели/2025",
-    "2. Areas/Цели",
     "0. Files/1. Tracker/Заметки без ссылок.md",
-    "2. Areas/Ежедневные заметки/07-04-2025.md",
-    "templates/Шаблон для замера тела.md",
-    "0. Files/1. Tracker/Измененные заметки за 7 дней.md",
-    "0. Files/1. Tracker/Не созданные заметки.md",
-    "0. Files/1. Tracker/Новые заметки за 7 дней.md",
-    "0. Files/1. Tracker/Сколько времени я прожил.md",
-    "!base/README.md",
-    "КАК МЫ ЛАЖАНУЛИ С РАЗМИНКОЙ__В.md",
     "Мой путь.canvas",
     "Тестовый канвас.canvas",
     "cache/Коннектор.png",
@@ -228,7 +229,6 @@
     "cache/telegram/photo_559138503_33.jpg",
     "cache/telegram/photo_559138503_32.jpg",
     "cache/photo_559138503_11.jpg",
-    "cache/photo_559138503_12.jpg",
     "Моё тело/Замеры/Без названия.canvas"
   ]
 }
