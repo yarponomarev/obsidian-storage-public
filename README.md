@@ -53,9 +53,9 @@ Obsidian - это мощное приложение для создания за
 
 ## Метод работы хранилища по системе PARA
 
-https://teletype.in/@eltonlabs/obsidian_ep01
-https://teletype.in/@eltonlabs/obsidian_ep02
-https://teletype.in/@eltonlabs/obsidian_ep03
+- https://teletype.in/@eltonlabs/obsidian_ep01
+- https://teletype.in/@eltonlabs/obsidian_ep02
+- https://teletype.in/@eltonlabs/obsidian_ep03
 
 ## Безопасность
 
