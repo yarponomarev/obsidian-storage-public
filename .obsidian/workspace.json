@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f14807f91827e19b",
+        "id": "af32a10a85d4fb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7926152f762cec",
+            "id": "0c05ef896e5a6602",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
+              "type": "empty",
               "state": {},
-              "icon": "search",
+              "icon": "lucide-file",
               "title": "Новая вкладка"
             }
           }
@@ -29,6 +29,7 @@
       {
         "id": "e0b7b70d2bf93614",
         "type": "tabs",
+        "dimension": 69.95249406175772,
         "children": [
           {
             "id": "edc3217973a8a3ee",
@@ -71,19 +72,11 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 356
-  },
-  "right": {
-    "id": "045f8f772b57156e",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "d84a8a9c16f1d0a1",
+        "id": "daea7ed143e6053f",
         "type": "tabs",
-        "dimension": 63.60454943132109,
+        "dimension": 30.04750593824228,
         "children": [
           {
             "id": "47ffbabc0c320da5",
@@ -94,7 +87,22 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "045f8f772b57156e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d84a8a9c16f1d0a1",
+        "type": "tabs",
+        "dimension": 63.60454943132109,
+        "children": [
           {
             "id": "4a5b0b5a60f8bd13",
             "type": "leaf",
@@ -166,50 +174,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b7926152f762cec",
+  "active": "4a5b0b5a60f8bd13",
   "lastOpenFiles": [
-    "Шаблоны/Шаблон изученной технологии.md",
-    "Шаблоны/Шаблон для Telegram.md",
-    "Шаблоны/Шаблон для целей.md",
-    "Шаблоны/Шаблон для пройденного курса.md",
-    "Шаблоны/Шаблон для книги.md",
-    "Шаблоны/Шаблон для заметки.md",
-    "Шаблоны/Шаблон для ежедневных заметок.md",
+    "0. Files/5. Inbox/Блокнот.md",
+    "2. Areas/Цели/_Цели.md",
+    "2. Areas/Цели/2025/_2025.md",
+    "2. Areas/Цели/2025/Апрель.md",
+    "0. Files/5. Inbox",
+    "0. Files/4. PDF",
+    "0. Files/0. Files",
+    "4. Archive",
+    "3. Resources",
+    "2. Areas",
+    "1. Projects",
+    "0. Files",
+    "0. Files/2. Templates/Шаблон изученной технологии.md",
+    "0. Files/2. Templates/Шаблон для Telegram.md",
+    "0. Files/2. Templates/Шаблон для целей.md",
+    "0. Files/2. Templates/Шаблон для пройденного курса.md",
+    "0. Files/2. Templates/Шаблон для книги.md",
+    "0. Files/2. Templates/Шаблон для заметки.md",
+    "0. Files/2. Templates/Шаблон для ежедневных заметок.md",
     "!base/_Личное.md",
-    "Шаблоны/_Шаблоны.md",
+    "0. Files/2. Templates/_Шаблоны.md",
     "README.md",
-    "!base/Блокнот.md",
     "для_себя.md",
-    "Трекер/_Трекер.md",
-    "Цели/2025/Апрель.md",
-    "Цели/2025/_2025.md",
-    "Цели/_Цели.md",
-    "Цели/2025",
-    "Цели",
-    "Трекер/Заметки без ссылок.md",
-    "Ежедневные заметки/07-04-2025.md",
+    "0. Files/1. Tracker/_Трекер.md",
+    "2. Areas/Цели/2025",
+    "2. Areas/Цели",
+    "0. Files/1. Tracker/Заметки без ссылок.md",
+    "2. Areas/Ежедневные заметки/07-04-2025.md",
     "templates/Шаблон для замера тела.md",
-    "Трекер/Измененные заметки за 7 дней.md",
-    "Трекер/Не созданные заметки.md",
-    "Трекер/Новые заметки за 7 дней.md",
-    "Трекер/Сколько времени я прожил.md",
+    "0. Files/1. Tracker/Измененные заметки за 7 дней.md",
+    "0. Files/1. Tracker/Не созданные заметки.md",
+    "0. Files/1. Tracker/Новые заметки за 7 дней.md",
+    "0. Files/1. Tracker/Сколько времени я прожил.md",
     "!base/README.md",
     "КАК МЫ ЛАЖАНУЛИ С РАЗМИНКОЙ__В.md",
-    "conflict-files-obsidian-git.md",
     "Мой путь.canvas",
-    "programming/go",
-    "programming",
-    "02 osengine",
-    "01 mentoring",
-    "00 c-sharp",
     "Тестовый канвас.canvas",
     "cache/Коннектор.png",
-    "Ежедневные заметки",
     "cache/telegram/photo_559138503_38.jpg",
     "cache/telegram/photo_559138503_37.jpg",
     "cache/telegram/photo_559138503_36.jpg",
-    "02 java",
-    "!programming",
     "cache/telegram/photo_559138503_35.jpg",
     "cache/telegram/photo_559138503_34.jpg",
     "cache/telegram/photo_559138503_33.jpg",
