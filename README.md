@@ -1,4 +1,4 @@
-<img width="1544" src="">
+<img width="1544" src="https://github.com/yarponomarev/obsidian-vault-template/blob/main/0.%20Files/0.%20Files/preview.png">
 
 # Obsidian Хранилище
 
