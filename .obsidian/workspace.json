@@ -11,15 +11,12 @@
             "id": "8b891dd91cefa5a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "0. Files/0. Files/preview.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "preview"
             }
           }
         ]
@@ -177,11 +174,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b891dd91cefa5a3",
+  "active": "edc3217973a8a3ee",
   "lastOpenFiles": [
-    "0. Files/0. Files/Снимок экрана 2025-04-26 153238.png",
-    "0. Files/0. Files/photo_559138503_40.jpg",
     "README.md",
+    "0. Files/0. Files/preview.png",
+    "0. Files/0. Files/photo_559138503_40.jpg",
     "Кэш/Pasted image 20250426153250.png",
     "Кэш",
     "1. Projects/Диплом/Ресурсы.md",
@@ -226,7 +223,6 @@
     "cache/telegram/photo_559138503_35.jpg",
     "cache/telegram/photo_559138503_34.jpg",
     "cache/telegram/photo_559138503_33.jpg",
-    "cache/telegram/photo_559138503_32.jpg",
     "Моё тело/Замеры/Без названия.canvas"
   ]
 }
