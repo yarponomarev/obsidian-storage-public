@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "19d5e7c171825c1e",
+        "id": "eb66d5ca7643b08a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b891dd91cefa5a3",
+            "id": "cb8b97dad309afc5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "0. Files/0. Files/preview.png"
-              },
-              "icon": "lucide-image",
-              "title": "preview"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
