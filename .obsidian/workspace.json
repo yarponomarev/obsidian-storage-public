@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb66d5ca7643b08a",
+        "id": "b8667497e00fd546",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8b97dad309afc5",
+            "id": "6f99196fcf6fa9d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,20 +174,20 @@
   },
   "active": "edc3217973a8a3ee",
   "lastOpenFiles": [
+    "3. Resources/Пять книг для саморазвития.md",
+    "3. Resources/Программирование/Верстка сайтов.md",
+    "0. Files/0. Cache/photo_559138503_40.jpg",
     "0. Files/4. Inbox/Блокнот.md",
     "0. Files/4. Inbox",
     "0. Files/3. PDF/Уход за кожей.pdf",
     "0. Files/3. PDF",
     "README.md",
     "0. Files/0. Cache/preview.png",
-    "0. Files/0. Cache/photo_559138503_40.jpg",
     "Кэш/Pasted image 20250426153250.png",
     "Кэш",
     "1. Projects/Диплом/Ресурсы.md",
     "1. Projects/Диплом",
-    "3. Resources/Программирование/Верстка сайтов.md",
     "2. Areas/Ежедневные заметки/07-04-2025.md",
-    "3. Resources/Пять книг для саморазвития.md",
     "0. Files/4. PDF/Уход за кожей.pdf",
     "1. Projects/Сайт/Текст.md",
     "3. Resources/Книги для трейдера.md",
@@ -212,7 +212,6 @@
     "!base/_Личное.md",
     "0. Files/2. Templates/_Шаблоны.md",
     "для_себя.md",
-    "0. Files/1. Tracker/_Трекер.md",
     "Мой путь.canvas",
     "Тестовый канвас.canvas",
     "cache/Коннектор.png",
