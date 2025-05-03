@@ -23,11 +23,11 @@
           "value": ""
         }
       ],
-      "templateFilePath": "Шаблоны/Шаблон для Telegram.md",
-      "notePathTemplate": "/{{content:30}}.md",
-      "filePathTemplate": "Кэш/telegram/{{file:name}}.{{file:extension}}",
+      "templateFilePath": "0. Files/2. Templates/Шаблон для Telegram.md",
+      "notePathTemplate": "0. Files/4. Inbox/{{content:30}}.md",
+      "filePathTemplate": "0. Files/0. Cache/{{file:name}}.{{file:extension}}",
       "reversedOrder": false,
-      "heading": ""
+      "heading": "### Переслано из Telegram"
     }
   ],
   "defaultMessageDelimiter": false,
